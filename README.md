@@ -1,14 +1,42 @@
-# CRM-LEAD-SCORING-DASHBOARD
+# 📊 CRM Lead Scoring Dashboard
 
-This project helps  to understand how business prioritize potential customers using a lead scoring system. Students will analyze customer data ,assign scores based on defined criteria  and build a dashboard that highlights high value leads.
+This project demonstrates how businesses prioritize potential customers using a lead scoring system. It analyzes customer data, assigns scores based on defined criteria, and presents insights through a professional Excel dashboard that highlights high-value leads.
 
-**Important knowledge to get from here:**
-1. Organize and analyze customer lead data in Excel
-2. Apply logical and conditional formulas
-3. Build a Lead scoring model
-4. Categorize leads by priority
-5. Calculate and rank lead scores
-6. Create CRM summary report
-7. Design a professional lead-scoring dashboard
+## 🚀 Features
+- Customer data organization and cleaning
+- Logical and conditional Excel formulas
+- Automated lead scoring model
+- Lead prioritization and ranking
+- Interactive CRM dashboard and reports
 
-**For more information click here:https://1drv.ms/x/c/c6767e1f5b535938/IQB9sSkztKlqQa5gR8gL3ggZAYxtLl5yRrGJ01KHOoA56Zc?e=Dp88uk**
+## 🛠 Tools & Skills Used
+- Microsoft Excel  
+- Logical & conditional formulas (IF, SUMIF, COUNTIF)  
+- Data analysis  
+- Dashboard and chart creation  
+- CRM reporting techniques  
+
+## 📂 Project Structure
+- **Data Sheet** – Raw customer lead data  
+- **Scoring Sheet** – Lead scoring calculations  
+- **Dashboard Sheet** – Visual CRM insights  
+
+## ▶ How To Use
+1. Download the Excel file.
+2. Open it using Microsoft Excel.
+3. Enter or modify customer lead data.
+4. View automatic scoring and dashboard insights.
+
+## 📊 Output
+- Lead scores
+- Ranked high-priority customers
+- Visual CRM dashboard for decision-making
+
+## 🔗 Project Demo
+[Excel Project Demo](https://1drv.ms/x/c/c6767e1f5b535938/IQB9sSkztKlQq5gRgL3ggZAYxtLI5yPrGJ0iKHUoA56Z?e=Dp88uk)
+
+## 👤 Author
+**Tona**
+
+## 📜 License
+Open source — for learning and educational use.
